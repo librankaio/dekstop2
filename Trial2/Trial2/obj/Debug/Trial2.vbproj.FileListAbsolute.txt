@@ -1,0 +1,2 @@
+D:\Dekstop Test\Trial2\Trial2\bin\Debug\Trial2.exe.config
+D:\Dekstop Test\new\Trial2\Trial2\bin\Debug\Trial2.exe.config
